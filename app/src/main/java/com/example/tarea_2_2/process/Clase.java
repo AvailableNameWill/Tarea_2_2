@@ -7,6 +7,9 @@ public class Clase {
     public String title;
     public String body;
 
+    public Clase() {
+    }
+
     public Clase(int userId, int id, String title, String body) {
         this.userId = userId;
         this.id = id;

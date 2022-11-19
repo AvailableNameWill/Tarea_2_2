@@ -16,6 +16,12 @@ public class View_Query_Activity extends AppCompatActivity {
 
         getObj();
 
+        Bundle bundle = getIntent().getExtras();
+
+        TVID.setText(bundle.getString("id"));
+        TVUID.setText(bundle.getString("uid"));
+        TVtitle.setText(bundle.getString("title"));
+        TVbody.setText(bundle.getString("body"));
 
     }
 
