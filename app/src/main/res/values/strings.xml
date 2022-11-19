@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea_2_2</string>
+    <string name="name"> Carlos Wilberto Rodriguez Ruiz </string>
+    <string name="numC"> 201910020179 </string>
+    <string name="conAll"> Consultar API </string>
+    <string name="con1"> Consultar individual </string>
+    <string name="posts"> Posts </string>
+    <string name="hint"> searchPost </string>
+    <string name="save"> Salvar </string>
+</resources>
